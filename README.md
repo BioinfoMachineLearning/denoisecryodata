@@ -4,7 +4,7 @@
 An open-source dataset for cryo-EM density map denoising comprising 650 high-resolution experimental maps paired with three types of generated label maps: regression maps capturing idealized density distributions, binary classification maps distinguishing structural elements from background, and atom-type classification maps.
 
 ## Dataset Download
-To keep the data files of Cryo2StructData permanent, we published all data to the Harvard Dataverse (https://doi.org/10.7910/DVN/CI0J2B), an online data management and sharing platform with a permanent Digital Object Identifier number for each dataset. 
+To keep the data files of denoise dataset permanent, we published all data to the Harvard Dataverse (https://doi.org/10.7910/DVN/CI0J2B), an online data management and sharing platform with a permanent Digital Object Identifier number for each dataset. 
 
 ## Description of the dataset
 Dataset Link : https://doi.org/10.7910/DVN/CI0J2B .
