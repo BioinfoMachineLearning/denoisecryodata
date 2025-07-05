@@ -1,6 +1,5 @@
 # A Labeled Dataset for AI-based Cryo-EM Map Enhancement
 
-
 An open-source dataset for cryo-EM density map denoising comprising 650 high-resolution experimental maps paired with three types of generated label maps: regression maps capturing idealized density distributions, binary classification maps distinguishing structural elements from background, and atom-type classification maps.
 
 ## Dataset Download
@@ -72,3 +71,17 @@ python3 parse_get_resolution_from_log_file_sim.py
 
 # Contact Information
 If you have any question, feel free to open an issue or reach out to us: [ngzvh@missouri.edu](ngzvh@missouri.edu), [chengji@missouri.edu](chengji@missouri.edu).
+
+## Citing this work
+If you use the code or data in this package, please cite:
+
+```bibtex
+@article{giri2025labeled,
+  title={A Labeled Dataset for AI-based Cryo-EM Map Enhancement},
+  author={Giri, Nabin and Chen, Xiao and Wang, Liguo and Cheng, Jianlin},
+  journal={Computational and Structural Biotechnology Journal},
+  year={2025},
+  publisher={Elsevier}
+}
+
+```
