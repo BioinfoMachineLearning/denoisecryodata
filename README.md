@@ -50,6 +50,7 @@ As shown in the example data format above, each individual directory for the cry
 
 # Programs to generate the dataset
 ```
+python3 pdb2density.py
 python3 generate_labels_all_conv.py
 ```
 
