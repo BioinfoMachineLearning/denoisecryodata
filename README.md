@@ -1,4 +1,4 @@
-# A Labeled Dataset for AI-based Cryo-EM Map Enhancement (ACME)
+# A Labeled Dataset for AI-based Cryo-EM Map Enhancement (CryoEnData)
 
 An open-source dataset for cryo-EM density map denoising comprising 650 high-resolution experimental maps paired with three types of generated label maps: regression maps capturing idealized density distributions, binary classification maps distinguishing structural elements from background, and atom-type classification maps.
 
